@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="JustJIT Logo" width="200"/>
+</div>
+
 # JustJIT
 
 Fast Python JIT compiler using LLVM ORC for aggressive runtime optimization.
